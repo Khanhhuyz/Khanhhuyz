@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Khanh Huyz — Code. Learn. Build." width="100%" />
-</p>
 
 <p align="center">
   <a href="https://github.com/Khanhhuyz">GitHub</a>
